@@ -1,11 +1,5 @@
 
-<!--- ### Hi there 👋
-**fkmoftakhar/fkmoftakhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started: --->
-### Hi there 👋 
-### Welcome to my homepage at GitHub
-
-### My name is Fatemeh Koorepazan-Moftakhar.
+# My full name is Fatemeh Koorepazan-Moftakhar.
 
 - 🔭 I received my Ph.D. in `Computational Mathematics` in 2018. Then as a postdoctoral fellow, I collaborated on a project by Professor [Robert Jajcay](http://euler.doa.fmph.uniba.sk/) at Comenius University, Bratislava, Slovakia. I work as a researcher on combinatorial problems. 
 - 🌱 I’m currently learning machine learning and knowledge graph.
@@ -21,9 +15,3 @@ Here are some ideas to get you started: --->
 </p>
 </center>
 </div>
-<!--- - 🤔 I’m looking for help with ...
-- 💬 Ask me about ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🔭 I am currently working on some applications of `graph neural networks` in molecular property prediction and drug discovery.
---->
