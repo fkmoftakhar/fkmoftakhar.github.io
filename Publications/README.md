@@ -1,7 +1,7 @@
 Note: In my domain, the authors of an article are typically listed in alphabetical order.
 
 ### MOST RECENT PUBLICATIONS AND PROFESSIONAL ACTIVITIES
-- S. Akbari, K. C. Das, S. Ghezelahmad, F. Koorepazan–Moftakhar, Hypoenergetic and Nonhypoenergetic Digraphs, Linear Algebra and its Applications 618 (2021) 129–143.
+[1] S. Akbari, K. C. Das, S. Ghezelahmad, F. Koorepazan–Moftakhar, Hypoenergetic and Nonhypoenergetic Digraphs, Linear Algebra and its Applications 618 (2021) 129–143.
 - S. Akbari, K. C. Das, M. Ghahremani, F. Koorepazan-Moftakhar, E. Raoufi, Energy of graphs containing disjoint cycles, MATCH Commun. Math. Comput. Chem. 86(3) (2021) 543–547.
 - A. R. Ashrafi, L. Ghanbari, K. Kavousi, F. Koorepazan-Moftakhar, An Algorithm for Constructing All Supercharacter Theories of a Finite Group, ARS MATHEMATICA CONTEMPORANEA 18
 (2020) 149–162.
@@ -12,6 +12,9 @@ Note: In my domain, the authors of an article are typically listed in alphabetic
 - A. R. Ashrafi, F. Koorepazan-Moftakhar, Counting the number of supercharacter theories of a finite group, Comptes Rendus Mathematique 357 (2019) 323–326.
 - A. R. Ashrafi and F. Kooperazan–Moftakhar, On normal graph of a finite group, Filomat 32(11) (2018) 4047–4059.
 - F. Koorepazan–Moftakhar, A. R. Ashrafi, Combination of distance and symmetry in some molecular graphs, Appl. Math. Comput. 281(30) (2016) 223-232.
+
+All papers are available on <a href="https://scholar.google.com/citations?hl=en&user=2ELoRnYAAAAJ">google scholar</a>
+
 
 ### Book
 - (Translation to Persian) Algebraic Models of Accounting Systems, Arnika, 2022.
@@ -26,4 +29,4 @@ Note: In my domain, the authors of an article are typically listed in alphabetic
 - F. Koorepazan–Moftakhar, A. R. Ashrafi and O. Ori, Symmetry of Nanotube and Nanotorus, In: Exotic Properties of Carbon Nanomatter: Advances in Physics and Chemistry, M. V. Putz and O. Ori (Eds.), Springer Verlag, London, 2015, Chapter 6, pp. 131–152.
 - F. Koorepazan-Moftakhar, A. R. Ashrafi, O. Ori and M. V. Putz, Sphericality of Some Classes of Fullerenes Measured by Topology, In: Fullerenes: Chemistry, Natural Sources and Technological Applications, Sh. B. Ellis (Ed.), Nova Science Publishers, 2014, 285–304.
 
-All papers are available on https://scholar.google.com/citations?hl=en&user=2ELoRnYAAAAJ
+
