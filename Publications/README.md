@@ -13,9 +13,6 @@ Note: In my domain, the authors of an article are typically listed in alphabetic
 10. F. Koorepazan–Moftakhar, A.R. Ashrafi, Combination of distance and symmetry in some molecular graphs, Appl. Math. Comput. 281(30) (2016) 223-232 (<a href="https://www.sciencedirect.com/science/article/pii/S0096300316300741">DOI</a>).
 11. F. Koorepazan–Moftakhar, A.R. Ashrafi, Distance under symmetry, MATCH Commun. Math. Comput. Chem. 74 (2015) 259–272 (<a href="https://match.pmf.kg.ac.rs/electronic_versions/Match74/n2/match74n2_259-272.pdf">DOI</a>).
 
-All papers are available on <a href="https://scholar.google.com/citations?hl=en&user=2ELoRnYAAAAJ">google scholar</a>
-
-
 ### Book
 - (Translation to Persian) Algebraic Models of Accounting Systems, Arnika, 2022.
 
@@ -29,4 +26,5 @@ All papers are available on <a href="https://scholar.google.com/citations?hl=en&
 - F. Koorepazan–Moftakhar, A. R. Ashrafi and O. Ori, Symmetry of Nanotube and Nanotorus, In: Exotic Properties of Carbon Nanomatter: Advances in Physics and Chemistry, M. V. Putz and O. Ori (Eds.), Springer Verlag, London, 2015, Chapter 6, pp. 131–152.
 - F. Koorepazan-Moftakhar, A. R. Ashrafi, O. Ori and M. V. Putz, Sphericality of Some Classes of Fullerenes Measured by Topology, In: Fullerenes: Chemistry, Natural Sources and Technological Applications, Sh. B. Ellis (Ed.), Nova Science Publishers, 2014, 285–304.
 
+All publications are available on <a href="https://scholar.google.com/citations?hl=en&user=2ELoRnYAAAAJ">google scholar</a>
 
