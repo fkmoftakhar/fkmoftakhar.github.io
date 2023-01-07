@@ -3,9 +3,9 @@
 - My full name is Fatemeh Koorepazan-Moftakhar
 - 🔭 I received my Ph.D. in `Computational Mathematics` in 2018. Then as a postdoctoral fellow, I collaborated on a project by Professor [Robert Jajcay](http://euler.doa.fmph.uniba.sk/) at Comenius University, Bratislava, Slovakia. I work as a researcher on combinatorial problems. 
 - 🌱 I’m currently learning machine learning and knowledge graph.
-- :heart_on_fire: I am PASSIONATE about `programming` and `artificial intelligence`.
+- &#x2764;&#xFE0F;&#x200D;&#x1F525; I am PASSIONATE about `programming` and `artificial intelligence`.
 - 👯 I’m looking to collaborate on the application of mathematics and ML in solving real-world problems, especially in medical sciences.
-- <a> :open_book </a>: My current research interests focus on deep learning, knowledge graph, graph neural networks, and drug design.
+- My current research interests focus on deep learning, knowledge graph, graph neural networks, and drug design.
 - 📫 How to reach me: 
 <div align="center">
 <p>
