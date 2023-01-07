@@ -2,5 +2,5 @@ theme: jekyll-theme-cayman
 image: ../flower.jpg
 title: Fatemeh Moftakhar Homepage
 description: Postdoctoral researcher at Comenius University, Slovakia
-logo: ../flower.jpg
+logo: /flower.jpg
 show_downloads: false
