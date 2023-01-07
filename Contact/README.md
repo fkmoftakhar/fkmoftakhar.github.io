@@ -1,3 +1,15 @@
+<hr>
+<div class="resume-intro py-3">
+  <div class="media flex-column flex-md-row align-items-center">
+    <img class="resume-profile-image mb-3 mb-md-0 mr-md-5 ml-md-0 rounded mx-auto" src="me.jpeg" alt="image">
+    <div class="media-body text-left">
+      <p class="mb-0">Welcome to my homepage. I am an associate professor (<em>chargé de cours</em>) in the <a href="http://www.ulb.ac.be/di/">Computer Science Department</a> at the <a href="http://www.ulb.ac.be">Université Libre de Bruxelles</a>. I teach various courses in computer science at the bachelor and master levels, see my <a href="https://gjoret.be/CV.pdf">CV</a> for more information.</p>
+    </div>
+  </div>
+</div>
+<hr>
+
+
 <div style="text-align: center;"><img src="me.jpeg" width="200" alt="My Image" /></div>
 
 - My full name is Fatemeh Koorepazan-Moftakhar
