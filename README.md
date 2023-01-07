@@ -3,7 +3,7 @@
 
 **fkmoftakhar/fkmoftakhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started: --->
+Here are some ideas to get you started: 
 ### Hi there 👋 
 
 ### My name is Fatemeh Koorepazan-Moftakhar.
@@ -21,7 +21,7 @@ Here are some ideas to get you started: --->
 <a href="https://www.researchgate.net/profile/Fatemeh-Koorepazan-Moftakhar" target="_blank"><img height="28" alt="ResearchGate" src="https://achconsa.edu.ng/uploads/4D04027AE7BA/frontend_image/college/vendors/research-gate.svg?&style=for-the-badge&logo=researchgate&logoColor=white" /></a>  
 </p>
 </center>
-</div>
+</div> --->
 
 
 <!--- - 🤔 I’m looking for help with ...
