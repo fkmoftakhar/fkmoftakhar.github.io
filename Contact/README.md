@@ -1,13 +1,23 @@
 	
 <p>
 <img SRC= "me.jpeg" width="200" ALIGN="left" /> 
-This text appears to the left of the image.
-This text appears to the left of the image.
-This text appears to the left of 
+Fatemeh Koorepazan-Moftakhar
+Postdoctoral researcher
+Department of Algebra and Geometry
+Faculty of Mathematics, Physics, and Computer Science, 
+Comenius University, 
+Bratislava, Slovakia
+	
+Office: M118
+Phone: +421 951 881 427
+Email: fatemeh.moftakhar@fmph.uniba.sk
+       f.k.moftakhar@gmail.com
+	
+<a href="url">Curriculum Vitae</a>
 </p>
 
 
-<div style="text-align: center;"><img src="me.jpeg" width="200" alt="My Image" /></div>
+
 
 - My full name is Fatemeh Koorepazan-Moftakhar
 - 🔭 I received my Ph.D. in `Computational Mathematics` in 2018. Then as a postdoctoral fellow, I collaborated on a project by Professor [Robert Jajcay](http://euler.doa.fmph.uniba.sk/) at Comenius University, Bratislava, Slovakia. I work as a researcher on combinatorial problems. 
