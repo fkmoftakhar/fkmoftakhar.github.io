@@ -1,13 +1,10 @@
-<hr>
-<div class="resume-intro py-3">
-  <div class="media flex-column flex-md-row align-items-center">
-    <img class="resume-profile-image mb-3 mb-md-0 mr-md-5 ml-md-0 rounded mx-auto" src="me.jpeg" width="150" alt="image">
-    <div class="media-body text-left">
-      <p class="mb-0">My full name is Fatemeh Koorepazan-Moftakhar</p>
-    </div>
-  </div>
-</div>
-<hr>
+	
+<p>
+<img SRC= "me.jpeg" width="200" ALIGN="left" /> 
+This text appears to the left of the image.
+This text appears to the left of the image.
+This text appears to the left of 
+</p>
 
 
 <div style="text-align: center;"><img src="me.jpeg" width="200" alt="My Image" /></div>
