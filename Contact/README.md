@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning machine learning and knowledge graph.
 - &#x2764;&#xFE0F;&#x200D;&#x1F525; I am PASSIONATE about `programming` and `artificial intelligence`.
 - 👯 I’m looking to collaborate on the application of mathematics and ML in solving real-world problems, especially in medical sciences.
-- My current research interests focus on deep learning, knowledge graph, graph neural networks, and drug design.
+- &#128214; My current research interests focus on deep learning, knowledge graph, graph neural networks, and drug design.
 - 📫 How to reach me: 
 <div align="center">
 <p>
