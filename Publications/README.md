@@ -1,8 +1,8 @@
 Note: In my domain, the authors of an article are typically listed in alphabetical order.
 
 ### MOST RECENT PUBLICATIONS AND PROFESSIONAL ACTIVITIES
-[1] S. Akbari, K. C. Das, S. Ghezelahmad, F. Koorepazan–Moftakhar, Hypoenergetic and Nonhypoenergetic Digraphs, Linear Algebra and its Applications 618 (2021) 129–143.
-- S. Akbari, K. C. Das, M. Ghahremani, F. Koorepazan-Moftakhar, E. Raoufi, Energy of graphs containing disjoint cycles, MATCH Commun. Math. Comput. Chem. 86(3) (2021) 543–547.
+1. S. Akbari, K. C. Das, S. Ghezelahmad, F. Koorepazan–Moftakhar, Hypoenergetic and Nonhypoenergetic Digraphs, Linear Algebra and its Applications 618 (2021) 129–143.
+2. S. Akbari, K. C. Das, M. Ghahremani, F. Koorepazan-Moftakhar, E. Raoufi, Energy of graphs containing disjoint cycles, MATCH Commun. Math. Comput. Chem. 86(3) (2021) 543–547.
 - A. R. Ashrafi, L. Ghanbari, K. Kavousi, F. Koorepazan-Moftakhar, An Algorithm for Constructing All Supercharacter Theories of a Finite Group, ARS MATHEMATICA CONTEMPORANEA 18
 (2020) 149–162.
 - A. R. Ashrafi, F. Koorepazan-Moftakhar, M. A. Salahshour, Counting the number of centralizers of 2-element subsets in a finite group, Communications in Algebra 48(11) (2020) 4647–4662.
