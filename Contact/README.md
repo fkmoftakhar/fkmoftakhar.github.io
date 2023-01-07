@@ -1,19 +1,21 @@
 	
 <p>
-<img SRC= "me.jpeg" width="200" ALIGN="left" /> 
-Fatemeh Koorepazan-Moftakhar
-Postdoctoral researcher
-Department of Algebra and Geometry
-Faculty of Mathematics, Physics, and Computer Science, 
-Comenius University, 
-Bratislava, Slovakia
-	
-Office: M118
-Phone: +421 951 881 427
-Email: fatemeh.moftakhar@fmph.uniba.sk
-       f.k.moftakhar@gmail.com
-	
+<img SRC= "me.jpeg" width="220" ALIGN="left" /> 
+Fatemeh Koorepazan-Moftakhar <br/>
+Postdoctoral researcher <br/>
+<br/>
+Department of Algebra and Geometry <br/>
+Faculty of Mathematics, Physics, and Computer Science, <br/>
+Comenius University, <br/>
+Bratislava, Slovakia <br/>
+<br/>
+Office: M118 <br/>
+Phone: +421 951 881 427 <br/>
+Email: fatemeh.moftakhar@fmph.uniba.sk <br/>
+       f.k.moftakhar@gmail.com <br/>
+	<br/>
 <a href="url">Curriculum Vitae</a>
+	<br/>
 </p>
 
 
