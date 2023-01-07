@@ -1,7 +1,5 @@
-#hp  {
-float: left;    
- margin: 0 15px 0 0;
-}
+<div style="text-align: center;"><img src="flower.jpg" width="100" alt="My Image" /></div>
+
 - My full name is Fatemeh Koorepazan-Moftakhar
 - 🔭 I received my Ph.D. in `Computational Mathematics` in 2018. Then as a postdoctoral fellow, I collaborated on a project by Professor [Robert Jajcay](http://euler.doa.fmph.uniba.sk/) at Comenius University, Bratislava, Slovakia. I work as a researcher on combinatorial problems. 
 - 🌱 I’m currently learning machine learning and knowledge graph.
