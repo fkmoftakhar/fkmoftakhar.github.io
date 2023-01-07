@@ -1,7 +1,7 @@
 	
 <p>
-<img SRC= "me.jpeg" ALIGN="left" style="max-width:300px;width:25%" /> 
-Fatemeh Koorepazan-Moftakhar <br/>
+<img SRC= "me.jpeg" ALIGN="left" style="max-width:300px;width:30%" /> 
+     Fatemeh Koorepazan-Moftakhar <br/>
 Postdoctoral researcher <br/>
 <br/>
 Department of Algebra and Geometry <br/>
