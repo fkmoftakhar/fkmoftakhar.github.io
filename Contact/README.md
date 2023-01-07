@@ -1,6 +1,6 @@
 	
 <p>
-<img SRC= "me.jpeg" ALIGN="left" style="max-width:300px;width:30%" /> 
+<img SRC= "me.jpeg" ALIGN="left" style="max-width:300px;width:35%" /> 
      Fatemeh Koorepazan-Moftakhar <br/>
 Postdoctoral researcher <br/>
 <br/>
