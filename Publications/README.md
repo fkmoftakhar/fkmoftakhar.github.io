@@ -1,17 +1,15 @@
 Note: In my domain, the authors of an article are typically listed in alphabetical order.
 
 ### MOST RECENT PUBLICATIONS AND PROFESSIONAL ACTIVITIES
-1. S. Akbari, K. C. Das, S. Ghezelahmad, F. Koorepazan–Moftakhar, Hypoenergetic and Nonhypoenergetic Digraphs, Linear Algebra and its Applications 618 (2021) 129–143.
-2. S. Akbari, K. C. Das, M. Ghahremani, F. Koorepazan-Moftakhar, E. Raoufi, Energy of graphs containing disjoint cycles, MATCH Commun. Math. Comput. Chem. 86(3) (2021) 543–547.
-- A. R. Ashrafi, L. Ghanbari, K. Kavousi, F. Koorepazan-Moftakhar, An Algorithm for Constructing All Supercharacter Theories of a Finite Group, ARS MATHEMATICA CONTEMPORANEA 18
-(2020) 149–162.
-- A. R. Ashrafi, F. Koorepazan-Moftakhar, M. A. Salahshour, Counting the number of centralizers of 2-element subsets in a finite group, Communications in Algebra 48(11) (2020) 4647–4662.
-- S. Akbari, M. Ghahremani, I. Gutman, F. Koorepazan-Moftakhar, Orderenergetic Graphs, MATCH Commun. Math. Comput. Chem. 84 (2020) 325–334.
-- A. Aashtab, S. Akbari, E. Ghasemian, A. H. Ghodrati, M. A. Hosseinzadeh and F. Koorepazan-Moftakhar, On the minimum energy of regular graphs, Linear Algebra and its Applications,
-581(15) 51–71 (2019).
-- A. R. Ashrafi, F. Koorepazan-Moftakhar, Counting the number of supercharacter theories of a finite group, Comptes Rendus Mathematique 357 (2019) 323–326.
-- A. R. Ashrafi and F. Kooperazan–Moftakhar, On normal graph of a finite group, Filomat 32(11) (2018) 4047–4059.
-- F. Koorepazan–Moftakhar, A. R. Ashrafi, Combination of distance and symmetry in some molecular graphs, Appl. Math. Comput. 281(30) (2016) 223-232.
+1. S. Akbari, K.C. Das, S. Ghezelahmad, F. Koorepazan–Moftakhar, Hypoenergetic and nonhypoenergetic digraphs, Linear Algebra Appl. 618 (2021) 129–143.
+2. S. Akbari, K.C. Das, M. Ghahremani, F. Koorepazan-Moftakhar, E. Raoufi, Energy of graphs containing disjoint cycles, MATCH Commun. Math. Comput. Chem. 86(3) (2021) 543–547.
+3. A.R. Ashrafi, L. Ghanbari, K. Kavousi, F. Koorepazan-Moftakhar, An algorithm for constructing all supercharacter theories of a finite group, Ars Math. Contemp. 18 (2020) 149–162.
+4. A.R. Ashrafi, F. Koorepazan-Moftakhar, M.A. Salahshour, Counting the number of centralizers of 2-element subsets in a finite group, Comm. Algebra  48(11) (2020) 4647–4662.
+5. S. Akbari, M. Ghahremani, I. Gutman, F. Koorepazan-Moftakhar, Orderenergetic graphs, MATCH Commun. Math. Comput. Chem. 84 (2020) 325–334.
+6. A. Aashtab, S. Akbari, E. Ghasemian, A.H. Ghodrati, M.A. Hosseinzadeh, F. Koorepazan-Moftakhar, On the minimum energy of regular graphs, Linear Algebra Appl. 581(15) (2019) 51–71 .
+7. A.R. Ashrafi, F. Koorepazan-Moftakhar, Counting the number of supercharacter theories of a finite group, C. R. Math. Acad. Sci. Paris 357 (2019) 323–326.
+8. A.R. Ashrafi, F. Kooperazan–Moftakhar, On normal graph of a finite group, Filomat 32(11) (2018) 4047–4059.
+9. F. Koorepazan–Moftakhar, A.R. Ashrafi, Combination of distance and symmetry in some molecular graphs, Appl. Math. Comput. 281(30) (2016) 223-232.
 
 All papers are available on <a href="https://scholar.google.com/citations?hl=en&user=2ELoRnYAAAAJ">google scholar</a>
 
