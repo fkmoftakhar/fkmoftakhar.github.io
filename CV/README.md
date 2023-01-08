@@ -34,3 +34,11 @@ I teach / have taught the following courses
 - Discrete mathematics (for the Bachelor of computer engineering and IT)(2021)
 - Programming (Python)(for the Bachelor of industrial engineering)(2020 - 2021)
 - Calculus (for the Bachelor of Engineering)(2019-2021)
+
+## Honorary activities
+- Reviewer of the American Mathematical Reviews
+- Contributed on writing a book on graph theory with <a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/362953">Saieed Akbari</a>
+
+## Membership in scientific society
+- 2014-2018: Member of European Society of Mathematical Chemistry (ESMC)
+- 2015-2019: Iranian Mathematical Society
