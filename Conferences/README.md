@@ -4,7 +4,7 @@
 - Some bounds on the energy of graphs, Graph Theory and Interactions, Beirut, Lebanon, June 6-14, 2022: (<a href="[url](https://fkmoftakhar.github.io/Conferences/CIMPA.pdf)">slides</a>)
 - A Brief Introduction to SageMath, Algebraic Graph Theory Seminar, Comenius University, Bratislava, Slovakia, April 29, 2022: (<a href="https://fkmoftakhar.github.io/Conferences/sage.html">slides</a>)
 - Algebraic Models for Accounting Systems, Algebraic Graph Theory Seminar, Comenius University, Bratislava, Slovakia, March 4, 2022: (<a href="https://fkmoftakhar.github.io/Conferences/Friday-March-2022.pdf">slides</a>)
-- 
+
 ### Attended conferences
 Only the conferences where I did not give a presentation <br>
 - Algorithmic and Enumerative Combinatorics conference, July 4 -8, 2022, Technical University of Vienna, Austria
