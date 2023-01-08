@@ -41,6 +41,6 @@ I teach / have taught the following courses
 
 ## Membership in scientific society
 - 2014-2018: Member of European Society of Mathematical Chemistry (ESMC)
-- 2015-2019: Iranian Mathematical Society
+- 2015-2019: Iranian Mathematical Society <br>
 
-### My <a href="https://fkmoftakhar.github.io/CV/Erdos.png">MR Erdos Number</a> is 3. 
+My <a href="https://fkmoftakhar.github.io/CV/Erdos.png">MR Erdos Number</a> is 3. 
