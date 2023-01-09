@@ -9,7 +9,7 @@ Faculty of Mathematics, Physics, and Computer Science, <br/>
 Comenius University, <br/>
 Bratislava, Slovakia <br/>
 <br/>
-Office: M118 <br/>
+Office: M138 <br/>
 Phone: +421 951 881 427 <br/>
 Email: fatemeh.moftakhar@fmph.uniba.sk <br/>
        f.k.moftakhar@gmail.com <br/>
