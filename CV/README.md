@@ -11,6 +11,7 @@
 - 01/2016-12/2020: Managing Editor of <a href="https://mir.kashanu.ac.ir/">Mathematics Interdisciplinary Research</a>
 
 ## Awards
+- 2023: Full Grant Award of CIMPA, France
 - 2022: Full Grant Award of <a href="https://www.gapdays.de/gapdays2022-summer/participants/">GAP Days Summer 2022</a>, Germany 
 - 2022: Full Grant Award of CIMPA, France
 - 2022: Travel Grant Award of AUF, Lebanon
