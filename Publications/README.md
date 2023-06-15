@@ -1,7 +1,7 @@
 Note: In my domain, the authors of an article are typically listed in alphabetical order.
 
 ### MOST RECENT PUBLICATIONS AND PROFESSIONAL ACTIVITIES
-1. R. Jajcay, F. Koorepazan–Moftakhar, Computer aided constructions of cages, RIMS, Kokyuroku 9 (2022) 64-73.
+1. R. Jajcay, F. Koorepazan–Moftakhar, Computer aided constructions of cages, RIMS, Kokyuroku 9 (2022) 64-73 (<a href="https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/279745/1/2229-08.pdf">DOI</a>).
 2. S. Akbari, K.C. Das, S. Ghezelahmad, F. Koorepazan–Moftakhar, Hypoenergetic and nonhypoenergetic digraphs, Linear Algebra Appl. 618 (2021) 129–143 (<a href="https://www.sciencedirect.com/science/article/pii/S0024379521000458">DOI</a>).
 3. S. Akbari, K.C. Das, M. Ghahremani, F. Koorepazan-Moftakhar, E. Raoufi, Energy of graphs containing disjoint cycles, MATCH Commun. Math. Comput. Chem. 86(3) (2021) 543–547 (<a href="https://match.pmf.kg.ac.rs/electronic_versions/Match86/n3/match86n3_543-547.pdf">DOI</a>).
 4. A.R. Ashrafi, L. Ghanbari, K. Kavousi, F. Koorepazan-Moftakhar, An algorithm for constructing all supercharacter theories of a finite group, Ars Math. Contemp. 18 (2020) 149–162 (<a href="https://amc-journal.eu/index.php/amc/article/view/1936">DOI</a>).
