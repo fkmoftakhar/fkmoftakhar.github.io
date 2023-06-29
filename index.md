@@ -1,16 +1,14 @@
 	
 <p>
-<img SRC= "me.jpeg" ALIGN="left" style="max-width:300px;width:35%" /> 
+<img SRC= "me.jpeg" ALIGN="left" style="max-width:200px;width:25%" /> 
      Fatemeh Koorepazan-Moftakhar <br/>
-Postdoctoral researcher <br/>
+Researcher/Advisor <br/>
 <br/>
-Department of Algebra and Geometry <br/>
-Faculty of Mathematics, Physics, and Computer Science, <br/>
-Comenius University, <br/>
-Bratislava, Slovakia <br/>
+Department of Mathematics, and Computer Science, <br/>
+<a href="https://panoptopia.com/">Panoptopia</a>, Tehran, Iran <br/>
 <br/>
-Office: M138 <br/>
-Phone: +421 951 881 427 <br/>
+Office: 2 <br/>
+Phone: +98 (0) 9127521786 <br/>
 Email: fatemeh.moftakhar@fmph.uniba.sk <br/>
        f.k.moftakhar@gmail.com <br/>
 	<br/>
