@@ -21,7 +21,7 @@ Only the conferences where I did not give a presentation <br>
 - Exceptional Structures in Discrete Mathematics 4, February 7 - 11, 2022, Harmonia, Slovakia
 
 ### Attended workshops
-- CIMPA School on “Graph Structure and Complex Network Analysis”, (<a href="https://nesinkoyleri.org/en/nesin-villages/)">Nesin Mathematics Village</a>), Şirince, İzmir, Turkey, June 4-16, 2023.
+- CIMPA School on “Graph Structure and Complex Network Analysis”, <a href="https://nesinkoyleri.org/en/nesin-villages/)">Nesin Mathematics Village</a>, Şirince, İzmir, Turkey, June 4-16, 2023.
 - CIMPA School on "Graph Theory and Interactions", Beirut, Lebanon, June 6-14, 2022.
 - CIMPA Research School and Workshop on Graphs, Algorithms and Randomness, University of Tabriz, Tabriz, June 15-22, 2019.
 - Tehran school on Theory and Applications of Complex Networks, Shahid Beheshti University, Tehran-Iran in August 25-29, 2018.
