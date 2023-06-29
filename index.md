@@ -4,7 +4,7 @@
      Fatemeh Koorepazan-Moftakhar <br/>
 Researcher/Advisor <br/>
 <br/>
-Department of Mathematics, and Computer Science, <br/>
+Department of Mathematics and Computer Science, <br/>
 <a href="https://panoptopia.com/">Panoptopia</a>, Tehran, Iran <br/>
 <br/>
 Office: 2 <br/>
